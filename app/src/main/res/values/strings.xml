@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="api_key"></string>
+    <string name="string_4">For search other city weather click on search button available on top.</string>
+    <string name="string_help_3">Press long to know more detail from list of cities.</string>
+    <string name="string_help_2">For more details swipe right.</string>
+    <string name="string_help_1">It will detect your location and will show weather report.</string>
+</resources>
